@@ -1,0 +1,16 @@
+[package]
+name = "habit-list"
+version = "1.0.0"
+authors = []
+
+[addresses]
+habit_list='0xfed16bb4cf7022b825acb149f10d7e9aadb8e056ecf1cb1f2abb17bbda2d1571'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
