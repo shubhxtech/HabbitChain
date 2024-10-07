@@ -3,7 +3,7 @@
 ## Overview
 Habbitchain is an innovative habit-tracking application that leverages blockchain technology to securely store user habit data while rewarding users for maintaining positive habits. By integrating with a decentralized wallet, users can track their progress and claim rewards in a secure and transparent manner.
 
-[Watch the demo video](https://www.youtube.com/watch?v=VIDEO_ID)
+[Watch the demo video]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/xfWRjf7w_Yk))
 
 ## Features
 - **Track Your Habits**: Easily add and monitor daily, weekly, or monthly habits.
